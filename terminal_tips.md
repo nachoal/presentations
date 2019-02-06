@@ -29,10 +29,19 @@ http://project.cyberpunk.ru/idb/in_the_beginning_was_the_command_line.html
 3. history | grep "text to search": look for text on your CLI history
 4. sudo htop 
 5. nano 
+6. ping url
+7. cmd1 | cmd2
+9. top: show processes
+10. kill -level pid
+11. curl
 
 ![useful commands 2](https://duaw26jehqd4r.cloudfront.net/items/3m1P3C2N191j0d1M1v0M/Image%202019-02-06%20at%2011.48.19%20AM.png)
 
 
 ### Good file viewer commands
 ![useful less commands](https://duaw26jehqd4r.cloudfront.net/items/3G1Q1t1v1u1Z2r0B3t1i/Image%202019-02-06%20at%2011.49.41%20AM.png)
+
+### Navigating the directories
+
+![useful navigation directories](https://duaw26jehqd4r.cloudfront.net/items/3O0d1p3t3F0E1n0i2P0c/Image%202019-02-06%20at%2012.04.06%20PM.png)
 
