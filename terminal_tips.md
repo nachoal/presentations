@@ -22,13 +22,13 @@ http://project.cyberpunk.ru/idb/in_the_beginning_was_the_command_line.html
 
 ![Used the most](https://duaw26jehqd4r.cloudfront.net/items/0j0G0m0U1l222D3w3P2W/Image%202019-02-08%20at%206.32.08%20PM.png)
 
-1. **cd ..** : Move one folder up
-2. **~**: your "root" path (you can use it on your `cd` commands to travel to your root path)
-3. **history | grep "text to search":** look for text on your CLI history
+1. `cd ..` : Move one folder up
+2. `~`: your "root" path (you can use it on your `cd` commands to travel to your root path)
+3. `history | grep "text to search":` look for text on your CLI history
 4. `git add` == `ga -a`
 5. `git commit -m` == `gcmsg`
 
-[More git shortcuts](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet#git)
+#### [More git shortcuts](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet#git)
 
 
 
