@@ -36,13 +36,13 @@ http://project.cyberpunk.ru/idb/in_the_beginning_was_the_command_line.html
 
 ### Good to add:
 
-1. **ping url**: Know if a URL is up and working
-2. **cmd1 | cmd2** Run two commands on the same line
-3. **top: show processes**: Show running processes on your machine
-4. **kill -level pid**: Kill process with the specified ID
-5. **curl**: transfer data from url via terminal
-6. **whois url** Know a URL info
-7. **nano** : Terminal text editor
+1. `ping url`: Know if a URL is up and working
+2. `cmd1 | cmd2` Run two commands on the same line
+3. `top: show processes`: Show running processes on your machine
+4. `kill -level pid`: Kill process with the specified ID
+5. `curl`: transfer data from url via terminal
+6. `whois url` Know a URL info
+7. `nano` : Terminal text editor
 
 
 ![useful commands 2](https://duaw26jehqd4r.cloudfront.net/items/3m1P3C2N191j0d1M1v0M/Image%202019-02-06%20at%2011.48.19%20AM.png)
