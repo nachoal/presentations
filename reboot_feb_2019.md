@@ -13,28 +13,30 @@
 
 ## **Introduction or Don't be afraid to touch your keyboard  ⌨️**
 
-This bootcamp is about building stuff. You won't learn programming by reading theory and trying to understand every single word in a method. You'll learn by sitting down on your terminal and using the things you learn during classes until you understand what they do. Then applying those to your problems.
+This bootcamp is about building stuff. You won't learn programming by reading theory and trying to understand every single word in a method. You'll learn by sitting down on your terminal and using the things you learn during classes until you understand what they do. Then applying those things to your challenges.
 
 ### **Just in Time learning**
 
-You came to the bootcamp to have an awesome way of learning to code so don't worry about what's not mentionted in your lectures.
+You came to the bootcamp to have an awesome program iterated over thousands of student feedbacks so don't worry about what's not mentionted in your lectures for now.
 
-You don't need to search for even more information than what you are given right now. Only search what you need to know to solve the problem you are facing.
+![paralysis](https://cdn-images-1.medium.com/max/1200/1*_zqo-6hW3hXdzjzBwQDJBw.png)
+
+You don't need to search for even more information than what you are given right now when figuring out how to solve your challenges. Only search what you need to know to solve the problem you are facing when the moment comes.
 
 ![Martian](https://i.embed.ly/1/image?url=https%3A%2F%2Fi.imgur.com%2F8k0jFTx.jpg%3Ffb&key=522baf40bd3911e08d854040d3dc5c07)
 
-### **Trust the program!** 
+### **Trust the bootcamp!** 
 
 
-✅ Good way of learning (Active): 
-1. Listen to the lecture
-2. Try the concepts out on your own
+✅ Active way of learning: 
+1. Pay attention to the lecture
+2. Try the concepts out on your own (irb)
 4. Read all of the problem description and specs
 5. **Break it down into small parts**
 5. **Pseudocode it before starting**
 6. **TRY TO CODE ON YOUR OWN!**
 
-❌ Bad way of learning (Passive):
+❌ Passive way of learning:
 1. Don't ask if you have questions on the lecture
 2. Search google for even more information about a topic before even starting a challenge.
 3. Read half the challenge. 
@@ -209,6 +211,8 @@ end
 
 ```
 
+
+
 ## **Iterators & blocks**
 ### For (used to loop over a collection of elements)
 ```
@@ -320,6 +324,7 @@ puts musicians
 
 ### **Make manual testing in Terminal ≠ Rake**
 
+[Puts debugger](https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
 - Sometimes it isn't enough just imagining or infering how the code works, always a visual feedback, a.k.a. Terminal, will make you understand better how the computer is reading the code.
 - Practice in the terminal
     - `irb` for test Ruby methods.
