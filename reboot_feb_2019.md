@@ -1,9 +1,3 @@
-TO DO: 
-
-[ ] - Finish reboot presentation 
-[ ] - Do the reboot problems and take notes
-[ ] - Finish afternoon presentation
-
 # Reboot ♻️
 > **"There is no formation without repetition"** - @wesbos
 
