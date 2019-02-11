@@ -8,6 +8,7 @@
 5. Conditionals
 6. Loops
 7. Iterators & blocks
+8. Recommendations
 
 
 ## **Introduction or Don't be afraid to touch your keyboard  ⌨️**
