@@ -5,8 +5,8 @@ http://project.cyberpunk.ru/idb/in_the_beginning_was_the_command_line.html
 ## Outline
 1. Understanding the tools you use
 2. Useful development commands you will use A LOT
-3. Useful terminal plugins for Rails development
-4. EXTRA!
+3. Useful terminal plugins
+4. EXTRA 🔥
 
 
 ## Understanding the tools you use
@@ -56,4 +56,21 @@ http://project.cyberpunk.ru/idb/in_the_beginning_was_the_command_line.html
 ![useful navigation directories](https://duaw26jehqd4r.cloudfront.net/items/3O0d1p3t3F0E1n0i2P0c/Image%202019-02-06%20at%2012.04.06%20PM.png)
 
 
-### Useful terminal plugins for Rails development
+### Useful terminal plugins
+
+
+1. [History substring search](https://github.com/zsh-users/zsh-history-substring-search)
+![History gif](https://duaw26jehqd4r.cloudfront.net/items/032D0c3A0m2Y2K300A0y/Screen%20Recording%202019-02-10%20at%2010.58%20PM.gif)
+
+2. [Directory listing as trees](https://brewformulas.org/tree)
+![Tree gif](https://duaw26jehqd4r.cloudfront.net/items/0Y3B2V3P122R3q2Z3q3w/Screen%20Recording%202019-02-10%20at%2011.05%20PM.gif)
+
+3. [htop (process viewer)](https://formulae.brew.sh/formula/htop)
+![htop gif](https://duaw26jehqd4r.cloudfront.net/items/1U3f0T2w3z3u0h0b1O1N/Screen%20Recording%202019-02-10%20at%2011.08%20PM.gif)
+
+### EXTRA 🔥
+
+
+1. A good tutorial: [Command line power user by @wesbos](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf)
+
+2. One of the best terminal emulators for mac: [iTerm](https://www.iterm2.com)
